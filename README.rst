@@ -1,2 +1,2 @@
-EffectivePython
-===============
+effective-python
+================
